@@ -85,9 +85,13 @@ body{
     background-color: #333333 !important;
     width: 100%;
     height: 100%;
-    background-color: #333333; /* Fondo cuando está expandido */
     color: #ffc107;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+    margin-bottom: 1rem;
 }
+
 
 /* Fondo del acordeón */
 .accordion {
